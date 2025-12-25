@@ -38,7 +38,7 @@ The database schema is provided in a separate file named `database.sql`.
 
 > Note: Database credentials are not included in this repository for security reasons.
 
-## Project Structure
+## Project Structurer
 ATM-Simulator
 │
 ├── src/
@@ -59,7 +59,6 @@ ATM-Simulator
 │
 ├── database.sql
 └── README.md
-
 ## How to Run the Project
 1. Clone or download the repository.
 2. Open the project in Eclipse or NetBeans.
